@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I support my approach around 3 pillars: *technique*, **governance** and _**business** processes_.
